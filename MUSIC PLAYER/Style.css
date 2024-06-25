@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.mp3Player{
+    width: 80vw;
+    max-width: 1000px;
+    height: 80px;
+    background-color: aqua;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.button{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+}
